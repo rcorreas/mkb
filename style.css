@@ -827,7 +827,7 @@ input:required {
 
 .about-video-area {
   position: relative;
-  z-index: 1;
+  z-index: 6;
   border-radius: 10px; }
   .about-video-area img {
     -webkit-box-shadow: 3px 0 24px rgba(0, 0, 0, 0.15);
@@ -1639,5 +1639,11 @@ input:required {
   width: 100%; }
   border: none !important;
   border-radius: 10px; }
+
+.qr {
+    margin: auto;
+    flex: auto
+    margin-botton: 20px;
+}
 
 
